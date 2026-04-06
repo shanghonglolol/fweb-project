@@ -1,0 +1,26 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "862fc6f6-93d1-4999-a1b2-fcaca828c365",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1769762883090"
+        }
+      },
+      "favorite": {
+        "name": "cluster0.idot6be.mongodb.net"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://user_db:user_password@cluster0.idot6be.mongodb.net/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjoxLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}

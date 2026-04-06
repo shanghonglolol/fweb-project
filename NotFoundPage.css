@@ -1,0 +1,43 @@
+.notfound-container {
+  min-height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.notfound-content {
+  text-align: center;
+  max-width: 500px;
+}
+
+.notfound-icon {
+  font-size: 80px;
+  margin-bottom: 20px;
+}
+
+.notfound-title {
+  font-size: 72px;
+  font-weight: bold;
+  color: #000000;
+  margin-bottom: 10px;
+}
+
+.notfound-subtitle {
+  font-size: 28px;
+  font-weight: bold;
+  color: #000000;
+  margin-bottom: 15px;
+}
+
+.notfound-message {
+  font-size: 16px;
+  color: #666;
+  margin-bottom: 30px;
+}
+
+.notfound-buttons {
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+}
